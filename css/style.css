@@ -18,3 +18,11 @@ h1{
 .btn{
     margin: 15px 8px;
 }
+
+.form-control{
+    margin: 0 auto;
+}
+
+ul{
+    list-style-type: none;
+}
